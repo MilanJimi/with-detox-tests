@@ -21,7 +21,7 @@ export default class App extends Component {
       </View>
     );
   }
-
+}
 
 const styles = StyleSheet.create({
   container: {
